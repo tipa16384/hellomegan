@@ -1,0 +1,22 @@
+body {
+	background: black;
+	color: yellow;
+}
+
+#stage {
+	border: 3px solid red;
+	background-color: green;
+	position: fixed;
+	top: 50px;
+	left: 50px;
+}
+
+#info {
+	border: 3px solid red;
+	background-color: teal;
+	position: fixed;
+	top: 50px;
+	left: 575px;
+	height: 480px;
+	width: 250px;
+}
